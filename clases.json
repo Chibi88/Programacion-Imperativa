@@ -1,0 +1,87 @@
+[
+    {
+       "titulo" : "Introducción",
+       "estado": "terminada",
+       "nota" : 7
+    },
+    {
+       "titulo" : "Variables y operadores",
+       "estado": "terminada",
+       "nota" : 8
+    },
+    {
+       "titulo" : "Funciones",
+       "estado": "terminada",
+       "nota" : 7
+    },
+    {
+      "titulo" : "Control de flujo",
+      "estado": "repasar",
+      "nota" : 6
+   },
+   {
+      "titulo" : "Arrays Básicos",
+      "estado": "repasar",
+      "nota" : 7
+   },
+   {
+      "titulo" : "Bucles",
+      "estado": "repasar",
+      "nota" : 5
+   },
+   {
+      "titulo" : "Funciones Avanzadas",
+      "estado": "terminada",
+      "nota" : 6
+   },
+   {
+      "titulo" : "Objeto literales",
+      "estado": "repasar",
+      "nota" : 9.5
+   },
+   {
+      "titulo" : "Modulos",
+      "estado": "terminada",
+      "nota" : 10
+   },
+   {
+      "titulo" : "Debugging Y Testing",
+      "estado": "terminada",
+      "nota" : 8.5
+   },
+   {
+      "titulo" : "Checkpoint",
+      "estado": "terminada",
+      "nota" : 8
+   },
+   {
+      "titulo" : "Arrays Avanzados",
+      "estado": "terminada",
+      "nota" : 7
+   },
+   {
+      "titulo" : "Practica Integradora",
+      "estado": "terminada",
+      "nota" : 7
+   },
+   {
+      "titulo" : "JSON",
+      "estado": "terminada",
+      "nota" : 5
+   },
+   {
+      "titulo" : "Examen",
+      "estado": "pendiente",
+      "nota" : 7
+   },
+   {
+      "titulo" : "Promesas",
+      "estado": "pendiente",
+      "nota" : 8
+   },
+   {
+      "titulo" : "Async Await",
+      "estado": "pendiente",
+      "nota" : 6
+   }
+ ]
